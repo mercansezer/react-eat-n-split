@@ -21,3 +21,7 @@ A simple application to split restaurant bills with friends.
 - JSX
 - State Management (`useState`)
 - Lifting State Up
+
+- ## Demo
+
+You can click [here](https://eat-n-split-sezer.netlify.app/) for a live demo.
