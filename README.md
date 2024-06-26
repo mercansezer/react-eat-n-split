@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -68,3 +69,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+=======
+# react-eat-n-split
+`eat-n-split` is a web application that allows you to split bills with your friends easily. You can select a friend, input the bill amount, and see how much each person owes. This project demonstrates the use of various React techniques such as state lifting, components, props, JSX, and state management with `useState`.
+>>>>>>> 8d6f66250f4c9ccbf74cd1c57f9c76900c15daa0
